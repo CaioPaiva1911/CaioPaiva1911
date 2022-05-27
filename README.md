@@ -1,3 +1,10 @@
+<div align="">
+  <a href="https://github.com/rhenandias"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiopaiva1911&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiopaiva1911&langs_count=10&layout=compact&theme=radical" />
+</div>
+
+
 - 👋 Hi, I’m @CaioPaiva1911
 - 👀 I’m interested in development of aplications.  
 - 🌱 I’m currently learning Java
