@@ -2,7 +2,7 @@
 - 👀 I’m interested in development of aplications.  
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on a project mobile
-- 📫 How to reach me bey Linkedin caio-s-paiva
+- 📫 How to reach me bey Linkedin [LinkedIn](https://www.linkedin.com/in/caio-s-paiva/)
 
 <div align="">
   <a href="https://github.com/rhenandias"></a>
