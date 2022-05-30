@@ -11,6 +11,7 @@
 </div>
 
 ### Tecnologias 
+![Java](https://img.shields.io/badge/java-%23316192.svg?style=for-the-badge&logo=java&logoColor=orange)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
