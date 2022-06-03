@@ -2,18 +2,18 @@
 - 👀 I’m interested in development of aplications.  
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on a project mobile
-- 📫 How to reach me bey Linkedin [LinkedIn](https://www.linkedin.com/in/caio-s-paiva/)
+- 📫 How to reach me bey [LinkedIn](https://www.linkedin.com/in/caio-s-paiva/)
 
 <div align="">
-  <a href="https://github.com/rhenandias"></a>
+  <a href="https://github.com/caiopaiva1911"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiopaiva1911&show_icons=true&theme=radical&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiopaiva1911&langs_count=10&layout=compact&theme=radical" />
 </div>
 
 ### Tecnologias 
-![Java](https://img.shields.io/badge/java-%23316192.svg?style=for-the-badge&logo=java&logoColor=orange)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring-boot%23316192.svg?style=for-the-badge&logo=spring-boot&logoColor=green)
-![Android](https://img.shields.io/badge/android%23316192.svg?style=for-the-badge&logo=android&logoColor=green)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
