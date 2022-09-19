@@ -5,9 +5,9 @@
 - 📫 How to reach me bey <a href="https://www.linkedin.com/in/caio-s-paiva/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <div align="">
-  <a href="https://github.com/caiopaiva1911"></a>
+  <a href="https://github.com/CaioPaiva1911"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiopaiva1911&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiopaiva1911&langs_count=10&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioPaiva1911&langs_count=12&layout=compact&theme=radical" />
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
