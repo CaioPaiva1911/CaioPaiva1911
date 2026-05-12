@@ -1,10 +1,12 @@
 <div align="center">
 
 # 👋 Caio Paiva
-`// back-end engineer · core banking · distributed systems`
 
-Sistemas financeiros de missão crítica com event-driven architecture e alta disponibilidade 24×7.
-Focado em performance, resiliência e escalabilidade.
+```
+// back-end engineer · core banking · distributed systems
+```
+
+Sistemas financeiros de missão crítica · Event-driven · Alta disponibilidade 24×7
 
 </div>
 
@@ -14,9 +16,9 @@ Focado em performance, resiliência e escalabilidade.
 
 <div align="center">
 
-| ⏳ Experiência | ⚡ Kafka perf. | 🏦 Módulos | 🕐 Uptime |
+| ⏳ Experiência | ⚡ Kafka perf. | 🏦 Módulos CB | 🕐 Uptime |
 |:-:|:-:|:-:|:-:|
-| **4+ anos** | **+30%** | **5+ Core Banking** | **24×7** |
+| **4+ anos** | **+30%** | **5+** | **24×7** |
 
 </div>
 
@@ -44,6 +46,7 @@ Focado em performance, resiliência e escalabilidade.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![KEDA](https://img.shields.io/badge/KEDA-326CE5?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -62,21 +65,17 @@ Focado em performance, resiliência e escalabilidade.
 
 ## 🏛️ Padrões Arquiteturais
 
-`Event-Driven Architecture` `CQRS` `Saga Pattern` `Outbox Pattern`
-`Anti-Corruption Layer` `API Gateway` `Domain-Driven Design`
-`Spring Cloud Gateway` `Apache Camel` `Feign Client` `Idempotência`
+`Event-Driven` `CQRS` `Saga Pattern` `Outbox Pattern` `Anti-Corruption Layer` `API Gateway` `DDD` `Microsserviços` `Idempotência` `Spring Cloud Gateway` `Apache Camel` `Feign Client`
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-**🏦 Balance & Statement** — APIs de saldo, extrato e limites em arquitetura distribuída.
-Melhoria de **30%** no throughput de eventos Kafka com tuning de queries e cache Hibernate.
+**🏦 Balance & Statement** — APIs de saldo, extrato e limites em arquitetura distribuída. Melhoria de **+30%** no throughput Kafka.
 
-**🔌 Entrypoints API Adapter** — Integração moderna ↔ legado com API Gateway + Anti-Corruption Layer.
-Spring Cloud Gateway, Feign Client, Kafka — construído do zero.
+**🔌 Entrypoints API Adapter** — Integração moderna ↔ legado com API Gateway + ACL. Spring Cloud Gateway + Feign Client + Kafka.
 
-**🔄 Reconciliation** — Reconciliação de eventos financeiros distribuídos com Siddhi/WSO2 + Kafka.
+**🔄 Reconciliation** — Reconciliação de eventos financeiros com Siddhi/WSO2 + Kafka.
 
 **💳 Transaction** — Modernização Spring Boot 3.4, suporte multi-moedas para criptoativos.
 
@@ -99,7 +98,7 @@ start ── Suporte Técnico · Troubleshooting · Banco de Dados
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioPaiva1911&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiopaiva1911&show_icons=true&theme=radical&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioPaiva1911&langs_count=8&layout=compact&theme=radical" />
 </div>
 
