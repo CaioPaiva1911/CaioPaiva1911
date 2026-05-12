@@ -98,8 +98,7 @@ start ── Suporte Técnico · Troubleshooting · Banco de Dados
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiopaiva1911&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioPaiva1911&langs_count=8&layout=compact&theme=radical" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=allanlopreti&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 ---
