@@ -1,47 +1,91 @@
-- 👋 Hi, I’m @CaioPaiva1911
-- 👀 I’m interested in development of aplications.  
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on a project mobile
-- 📫 How to reach me bey <a href="https://www.linkedin.com/in/caio-paivaa/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<div align="center">
 
-<div align="">
-  <a href="https://github.com/CaioPaiva1911"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiopaiva1911&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioPaiva1911&langs_count=12&layout=compact&theme=radical" />
+# 👋 Caio Paiva
+
+```
+// Back-End Engineer · Core Banking · Distributed Systems
+```
+
+Building mission-critical financial systems with event-driven architecture,
+microsserviços e alta disponibilidade 24x7.
+~4 anos de experiência no setor financeiro com foco em performance, resiliência e escalabilidade.
+
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+---
 
-### Tecnologias 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring-boot%23316192.svg?style=for-the-badge&logo=spring-boot&logoColor=green)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 📊 Números
 
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+| | |
+|---|---|
+| 🗓️ Experiência | **4+ anos** |
+| ⏱️ Uptime | **24x7 · missão crítica** |
+| ⚡ Performance | **+30% Kafka throughput** |
+| 🏦 Módulos | **5+ Core Banking** |
 
-### Cloud
+---
 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+## 🛠️ Stack Principal
 
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+**Backend & Mensageria**
+`Java 17+` `Spring Boot 3.x` `Apache Kafka` `Microsserviços`
 
-### Integrated Development Environment
+**Banco de Dados**
+`MySQL` `SQL Server` `Hibernate` `Hibernate Envers`
 
-![IntelliJ](https://img.shields.io/badge/intellij-FF6C37?style=for-the-badge&logo=intellij&logoColor=purple)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Cloud & Infra**
+`Kubernetes` `Docker` `AWS` `Helm Charts` `KEDA` `Jenkins CI/CD`
 
-### Ferramentas
+**Observabilidade**
+`Prometheus` `Grafana` `Zipkin` `Micrometer` `MDC Logging`
 
-![Postman](https://img.shields.io/badge/Postman-87CEEB?style=for-the-badge&logo=postman&logoColor=white)
-![DBeaver](https://img.shields.io/badge/dbeaver-6959CD?style=for-the-badge&logo=dbeaver&logoColor=white)
+---
 
+## 🏛️ Padrões Arquiteturais
 
-<!---
-CaioPaiva1911/CaioPaiva1911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+`Event-Driven Architecture` `CQRS` `Saga Pattern` `Outbox Pattern`
+`Anti-Corruption Layer` `API Gateway` `Domain-Driven Design`
+`Layered Architecture` `Retry Patterns` `Idempotência`
+`Spring Cloud Gateway` `Apache Camel` `Feign Client`
+
+---
+
+## 🚀 Projetos em Destaque
+
+**Balance & Statement** — APIs de saldo, extrato e limites em arquitetura distribuída.
+Melhoria de 30% na performance de eventos Kafka com tuning de queries e cache Hibernate.
+
+**Entrypoints API Adapter** — Integração entre sistemas modernos e legados via API Gateway + ACL.
+Implementado com Spring Cloud Gateway, Feign Client e Kafka desde o início.
+
+**Reconciliation** — Reconciliação de eventos financeiros com Siddhi/WSO2 + Kafka.
+
+**Transaction** — Modernização para Spring Boot 3.4, suporte multi-moedas para criptoativos.
+
+**Composite Transaction** — Módulo assíncrono para tradução de APIs em eventos Kafka.
+
+---
+
+## 📈 Trajetória
+
+```
+hoje  → Back-End Engineer · Core Banking · Sistemas Distribuídos
+ +2   → Backend Developer · APIs REST · Microsserviços
+start → Suporte Técnico · Troubleshooting · Banco de Dados
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiopaiva1911&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioPaiva1911&langs_count=8&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-paivaa/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaioPaiva1911)
